@@ -299,7 +299,7 @@ padding-block-end: 8px;
 
 .artist-categorie {
 color: #6a6a6a;
-font-weight: 400;
+font-weight: 500;
 font-size: 0.875rem;
 }
 
@@ -312,7 +312,7 @@ position: absolute;
 right: 10px;
 top: 120px;
 padding: 18px;
-background-color: #1db954;
+background-color: #26c15c;
 border-radius: 100%;
 font-size: 14px;
 opacity: 0;
